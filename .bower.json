@@ -1,0 +1,14 @@
+{
+  "name": "jqueryLoadingOverlay",
+  "version": "1.2.1",
+  "_release": "1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.1"
+  },
+  "main": "src/loadingoverlay.js",
+  "_source": "https://github.com/drieschel/jquery-loading-overlay",
+  "_target": "*",
+  "_originalSource": "https://github.com/gasparesganga/jquery-loading-overlay",
+  "_direct": true
+}
